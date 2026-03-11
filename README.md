@@ -1,7 +1,9 @@
 ## Independent project: Robotically Automated Cooking 
 
 • Constructed a cooking robot alongside a UI to interact with it using C#.
+
 • Designs and hardware dependent on microcontrollers, CAD, and GUI-building platforms.
+
 • The project was on display at a STEM exhibition hosted by the Federal Pakistani Education Board (FBISE). 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D345153000986711%26set%3Da.249193600582652%26type%3D3&show_text=true&width=500" width="500" height="767" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+[![Facebook Post Preview](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/473080362_1033706622131342_2190277926890972475_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=VsBioEnMhVkQ7kNvwHEk8l9&_nc_oc=AdnOfa3pcdcsSMc0VI0WFcUEUvOT-thJ6LWKCOEnY85WpA3ElI35NAUC3hNjb7AAGbs&_nc_zt=23&_nc_ht=scontent-tpe1-1.xx&_nc_gid=UZ1WR2A0FSDHZSdo62dxGw&_nc_ss=8&oh=00_AfzbBJ07Fq8emcKTNAiAvPUKzH6pw6qT9iLntTlYGGYxOQ&oe=69B75D84)](https://www.facebook.com/share/p/1AZyzLJisi/)
